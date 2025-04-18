@@ -1,1 +1,15 @@
-
+transformers>=4.30.0
+huggingface_hub
+networkx
+rdflib
+datasets
+bitsandbytes
+sentence-transformers
+torch>=2.0.0
+torchvision
+Pillow
+matplotlib
+pandas
+gradio>=3.50.0
+kaggle
+qwen-vl-utils==0.0.8
