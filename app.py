@@ -131,7 +131,7 @@ demo = gr.Interface(
         gr.Textbox(label="User Query"),
         gr.Textbox(label="Cleaned Assistant Response")
     ],
-    title="Skin Disease Diagnosis with RAG",
+    title = "Skin Disease Diagnosis with Qwen, DinoV2, and KG-RAG",
     description="Upload an image and enter a question. The model will predict the disease and answer your query.",
 )
 
